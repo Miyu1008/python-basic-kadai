@@ -1,0 +1,7 @@
+print(45 + 18)
+print(30 - 2)
+print(15 * 6)
+print(30 / 3)
+print(45 % 8)
+print("今日の天気は" + "晴れ")
+print("降水確率" + str(50) + "%" )
